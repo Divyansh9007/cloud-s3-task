@@ -8,20 +8,7 @@
 
 A comprehensive **cloud-based web application** that revolutionizes how educational institutions manage and distribute Previous Year Question papers (PYQs). Built with modern technologies including **React.js**, **Firebase**, and **AWS S3** for scalable, secure, and efficient academic resource management.
 
-## 🌟 **Live Demo**
 
-
-
-## 📸 **Screenshots**
-
-### Student Dashboard
-![Student Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Student+Dashboard+-+Search+%26+Download+PYQs)
-
-### Admin Dashboard  
-![Admin Dashboard](https://via.placeholder.com/800x400/059669/FFFFFF?text=Admin+Dashboard+-+Upload+%26+Manage+PYQs)
-
-### Authentication System
-![Login Interface](https://via.placeholder.com/400x300/DC2626/FFFFFF?text=Secure+Login+System)
 
 ## ✨ **Key Features**
 
