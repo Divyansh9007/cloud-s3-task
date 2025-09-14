@@ -10,7 +10,7 @@ A comprehensive **cloud-based web application** that revolutionizes how educatio
 
 ## 🌟 **Live Demo**
 
-🚀 **Application URL**: [http://localhost:3000](http://localhost:3000) (after setup)
+
 
 ## 📸 **Screenshots**
 
@@ -194,7 +194,7 @@ REACT_APP_S3_BUCKET_NAME=your_bucket_name
 npm start
 ```
 
-🌐 **Access the application**: [http://localhost:3000](http://localhost:3000)
+
 
 ---
 
@@ -489,12 +489,7 @@ src/
 └── utils/              # Utility Functions
 ```
 
-## 📊 Evaluation Criteria (30 Marks)
 
-- **Cloud Services Integration (10 marks)**: Firebase + AWS S3 + IAM
-- **Frontend (10 marks)**: Working React app with good UI/UX
-- **Functionality (5 marks)**: Upload, search, download features
-- **Presentation (5 marks)**: Documentation + extra features
 
 ## 🚀 Deployment
 
